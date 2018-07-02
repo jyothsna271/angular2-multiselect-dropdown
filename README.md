@@ -21,7 +21,6 @@ Angular 2 multiselect dropdown component for web applications. Easy to integrate
 ##### 9. Group By feature
 ##### 10. Search filter for both plain list and grouped list
 ##### 11. Custom Search / Search API
-##### 12. Hey Bro!!! YOYO
 
 
 
